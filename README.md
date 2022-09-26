@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @TekiLala
+- 🌱 I’m currently learning Java
+- I enjoy team work and I am open to try new things
+- Goals:
+-       Learning Java in a good level
+-       Learning JS
+-       Improve my programming to find a job in FANG
+-       And not to stop learning
+- I am also very sociable and determinated person
+
+- 📫 You can reach me with this mail: maharramovalal@gmail.com
